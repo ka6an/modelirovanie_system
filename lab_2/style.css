@@ -1,0 +1,299 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+/* custom */
+
+.flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 350px;
+    position: relative;
+    padding-left: 40px;
+    margin: 20px auto;
+    padding-top: 70px;
+}
+
+.child {
+    background-color: #03A9F4;
+    color: #fff;
+    font-size: 1.5em;
+    font-family: Tahoma;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.left {
+    position: absolute;
+    top: 70px;
+    left: 0;
+}
+
+.left p, .top p {
+    line-height: 70px;
+    color: #03A9F4;
+    font-family: tahoma;
+    font-size: 1.5em;
+}
+
+.flex .before,
+.flex .after {
+    content: "";
+    position: absolute;
+    top: 70px;
+    left: 40px;
+    background-color: rgba(165, 164, 164, 0.4);
+    -webkit-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+.flex .before {
+    width: 350px;
+    height: 70px;
+}
+
+.flex .after {
+    width: 70px;
+    height: calc(100% - 70px);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2em;
+    font-family: tahoma;
+    border-bottom: 3px solid #353535;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.content {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.form {
+    width: 390px;
+    margin: 0 auto;
+    border: 1px solid #353535;
+    padding: 20px 10px 20px 39px;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+    overflow: hidden;
+}
+
+.form select,
+.form button {
+    padding: 10px 0;
+    margin: 0;
+    outline: none;
+    background: none;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+    border-radius: 0;
+    height: 41px;
+    cursor: pointer;
+    border: 1px solid #353535;
+    -webkit-appearance: none;
+    font-size: 1em;
+    font-family: tahoma;
+    -webkit-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    transition: all .4s ease;
+    float: right;
+    overflow: hidden;
+}
+
+.form select {
+    float: left;
+    width: 130px;
+    padding: 10px 53px;
+}
+
+.form button {
+    color: #fff;
+    background: #353535;
+    width: 190px;
+}
+
+
+.top {
+    position: absolute;
+    top: 0;
+    left: 40px;
+    overflow: hidden;
+}
+
+.top p {
+    display: inline-block;
+    width: 50px;
+    margin: 0 8px;
+}
+
+.top p.red {
+    color: #F44336;
+}
+
+.log {
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    text-align: left;
+}
+
+.log p {
+    font-size: 1.5em;
+    font-family: tahoma;
+    line-height: 1.5em;
+}

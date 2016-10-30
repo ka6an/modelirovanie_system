@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Имитационное моделирование детерминированного конечного автомата</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="content">
+        <h1>Автомат Мура</h1>
+        <div class="flex">
+            <div class="before"></div>
+            <div class="child row_1 col_1" data-z="1">z1</div>
+            <div class="child row_1 col_2" data-z="5">z5</div>
+            <div class="child row_1 col_3" data-z="4">z3</div>
+            <div class="child row_1 col_4" data-z="2">z2</div>
+            <div class="child row_1 col_5" data-z="4">z4</div>
+
+            <div class="child row_2 col_1" data-z="4">z4</div>
+            <div class="child row_2 col_2" data-z="1">z1</div>
+            <div class="child row_2 col_3" data-z="2">z2</div>
+            <div class="child row_2 col_4" data-z="4">z4</div>
+            <div class="child row_2 col_5" data-z="3">z3</div>
+
+            <div class="child row_3 col_1" data-z="5">z5</div>
+            <div class="child row_3 col_2" data-z="4">z4</div>
+            <div class="child row_3 col_3" data-z="3">z3</div>
+            <div class="child row_3 col_4" data-z="2">z2</div>
+            <div class="child row_3 col_5" data-z="1">z1</div>
+            
+            <div class="child row_4 col_1" data-z="5">z5</div>
+            <div class="child row_4 col_2" data-z="4">z4</div>
+            <div class="child row_4 col_3" data-z="3">z3</div>
+            <div class="child row_4 col_4" data-z="1">z1</div>
+            <div class="child row_4 col_5" data-z="2">z2</div>
+            <div class="left">
+                <p>x1</p>
+                <p>x2</p>
+                <p>x3</p>
+                <p>x4</p>
+            </div>
+            <div class="top">
+                <p class="col_1" data-z="1">y1</p>
+                <p class="col_2" data-z="2">y2</p>
+                <p class="col_3" data-z="3">y3</p>
+                <p class="col_4" data-z="4">y4</p>
+                <p class="col_4" data-z="5">y4</p>
+            </div>
+            <div class="after"></div>
+        </div>
+        <div class="form">
+            <select id="select">
+                <option value="1">x1</option>
+                <option value="2">x2</option>
+                <option value="3">x3</option>
+                <option value="4">x4</option>
+            </select>
+            <button onclick="run()">отправить</button>
+        </div>
+        <div class="log">
+            <p class="val"></p>
+            <p class="exit"></p>
+        </div>
+    </div>
+    <script src="jquery.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
