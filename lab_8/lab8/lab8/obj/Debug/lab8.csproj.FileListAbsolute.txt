@@ -1,0 +1,9 @@
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.Cache
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\obj\Debug\lab8.pdb
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab8\lab8\obj\Debug\lab8.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab7\lab7\obj\Debug\lab7.pdb

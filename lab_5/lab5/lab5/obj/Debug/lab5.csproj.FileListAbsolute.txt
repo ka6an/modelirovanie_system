@@ -1,0 +1,26 @@
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\bin\Debug\lab5.exe.config
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\bin\Debug\lab5.exe
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\bin\Debug\lab5.pdb
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\bin\Debug\ZedGraph.dll
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\obj\Debug\lab5.Form1.resources
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\obj\Debug\lab5.exe
+c:\users\rozh\documents\visual studio 2013\Projects\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\bin\Debug\ZedGraph.dll
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+C:\Users\Rozh\YandexDisk\emel\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\Rozh\YandexDisk\emel\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\Rozh\YandexDisk\emel\lab5\lab5\obj\Debug\lab5.pdb
+\\Mac\Home\Documents\typescript\modelirovanie_system\lab_5\lab5\lab5\bin\Debug\lab5.exe.config
+\\Mac\Home\Documents\typescript\modelirovanie_system\lab_5\lab5\lab5\obj\Debug\lab5.exe
+\\Mac\Home\Documents\typescript\modelirovanie_system\lab_5\lab5\lab5\obj\Debug\lab5.pdb

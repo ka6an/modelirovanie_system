@@ -1,0 +1,10 @@
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\bin\Debug\ZedGraph.dll
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\Rozh\Documents\Visual Studio 2013\Projects\emel\lab6\lab6\obj\Debug\lab6.pdb
